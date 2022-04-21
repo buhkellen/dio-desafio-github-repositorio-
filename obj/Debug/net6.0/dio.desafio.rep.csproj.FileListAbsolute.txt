@@ -1,0 +1,15 @@
+C:\Users\buh_k\DIO\dio.desafio.rep\bin\Debug\net6.0\dio.desafio.rep.exe
+C:\Users\buh_k\DIO\dio.desafio.rep\bin\Debug\net6.0\dio.desafio.rep.deps.json
+C:\Users\buh_k\DIO\dio.desafio.rep\bin\Debug\net6.0\dio.desafio.rep.runtimeconfig.json
+C:\Users\buh_k\DIO\dio.desafio.rep\bin\Debug\net6.0\dio.desafio.rep.dll
+C:\Users\buh_k\DIO\dio.desafio.rep\bin\Debug\net6.0\dio.desafio.rep.pdb
+C:\Users\buh_k\DIO\dio.desafio.rep\obj\Debug\net6.0\dio.desafio.rep.csproj.AssemblyReference.cache
+C:\Users\buh_k\DIO\dio.desafio.rep\obj\Debug\net6.0\dio.desafio.rep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buh_k\DIO\dio.desafio.rep\obj\Debug\net6.0\dio.desafio.rep.AssemblyInfoInputs.cache
+C:\Users\buh_k\DIO\dio.desafio.rep\obj\Debug\net6.0\dio.desafio.rep.AssemblyInfo.cs
+C:\Users\buh_k\DIO\dio.desafio.rep\obj\Debug\net6.0\dio.desafio.rep.csproj.CoreCompileInputs.cache
+C:\Users\buh_k\DIO\dio.desafio.rep\obj\Debug\net6.0\dio.desafio.rep.dll
+C:\Users\buh_k\DIO\dio.desafio.rep\obj\Debug\net6.0\refint\dio.desafio.rep.dll
+C:\Users\buh_k\DIO\dio.desafio.rep\obj\Debug\net6.0\dio.desafio.rep.pdb
+C:\Users\buh_k\DIO\dio.desafio.rep\obj\Debug\net6.0\dio.desafio.rep.genruntimeconfig.cache
+C:\Users\buh_k\DIO\dio.desafio.rep\obj\Debug\net6.0\ref\dio.desafio.rep.dll
